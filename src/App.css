@@ -1,0 +1,6 @@
+#my-class{
+  color: #FF3355;
+}
+#my-class.active{
+  color: #33FF46;
+}
